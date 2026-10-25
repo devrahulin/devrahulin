@@ -7,8 +7,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/builtbyrahulX"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=builtbyrahulX@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/devrahulin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/devrahulin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:rahibladex@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -51,25 +52,25 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 
 <br>
 
-**[🏙️ Cortex-City](https://github.com/builtbyrahulX/Cortex-City)**  
+**[🏙️ Cortex-City](https://github.com/devrahulin/Cortex-City)**  
 > *A cutting-edge traffic predictive digital twin simulator.*  
 > <sub>`Python` • `AI/ML` • `Simulation`</sub>
 
 <br>
 
-**[🎵 RahiTunes](https://github.com/builtbyrahulX/RahiTunes)**  
+**[🎵 RahiTunes](https://github.com/devrahulin/RahiTunes)**  
 > *An ultra-aesthetic, free, and open-source music player.*  
 > <sub>`React` • `Tailwind` • `Web`</sub>
 
 <br>
 
-**[🛡️ AcousticGuard](https://github.com/builtbyrahulX/AcousticGuard)**  
+**[🛡️ AcousticGuard](https://github.com/devrahulin/AcousticGuard)**  
 > *Intelligent audio analysis and security system.*  
 > <sub>`Machine Learning` • `Audio Processing`</sub>
 
 <br>
 
-**[🌌 My-Portfolio](https://github.com/builtbyrahulX/My-Portfolio)**  
+**[🌌 My-Portfolio](https://github.com/devrahulin/My-Portfolio)**  
 > *My personal developer portfolio with premium UI/UX.*  
 > <sub>`Next.js` • `TailwindCSS`</sub>
 
@@ -80,8 +81,8 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=builtbyrahulX&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtbyrahulX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devrahulin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrahulin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
