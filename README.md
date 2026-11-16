@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Rahul%20Jangra&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=2nd+Year+BCA+AI+%26+ML+Student;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Cortex-City+%26+RahiTunes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=2nd+Year+BCA+AI+%26+ML+Student;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Cortex-City+%26+RTunes" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
+  <a href="https://r-tunes.vercel.app/"><img src="https://img.shields.io/badge/Official_Website-RTunes-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="RTunes Official Website"/></a>
   <a href="https://github.com/devrahulin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/devrahulin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:rahibladex@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -21,7 +22,7 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 - 🎓 **Education:** Pursuing BCA with a specialization in **Artificial Intelligence & Machine Learning**.
 - 🚀 **Mission:** Building tools that are not only functionally powerful but aesthetically extraordinary.
 - 💡 **Focus Areas:** Deep Learning, Traffic Predictive Simulators, and Next.js Ecosystems.
-- 🌱 **Learning:** Currently diving deeper into advanced neural networks and system architecture.
+- 🎵 **Flagship Project:** [**RTunes (RahiTunes)**](https://r-tunes.vercel.app/) — Free open-source Android music player & streaming app with zero ads.
 
 ---
 
@@ -52,27 +53,21 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 
 <br>
 
-**[🏙️ Cortex-City](https://github.com/devrahulin/Cortex-City)**  
-> *A cutting-edge traffic predictive digital twin simulator.*  
-> <sub>`Python` • `AI/ML` • `Simulation`</sub>
+**[🎵 RTunes (RahiTunes) — Official Website](https://r-tunes.vercel.app/)**  
+> *Next-gen open-source Android music streaming player. Over 100M+ songs, zero ads, bit-perfect DAC audio, and offline downloads.*  
+> <sub>🌐 [r-tunes.vercel.app](https://r-tunes.vercel.app/) • 📦 [APK Releases](https://github.com/devrahulin/RahiTunes)</sub>
 
 <br>
 
-**[🎵 RahiTunes](https://github.com/devrahulin/RahiTunes)**  
-> *An ultra-aesthetic, free, and open-source music player.*  
-> <sub>`React` • `Tailwind` • `Web`</sub>
+**[🏙️ Cortex-City](https://github.com/devrahulin/Cortex-City)**  
+> *A cutting-edge traffic predictive digital twin simulator.*  
+> <sub> •  • </sub>
 
 <br>
 
 **[🛡️ AcousticGuard](https://github.com/devrahulin/AcousticGuard)**  
 > *Intelligent audio analysis and security system.*  
-> <sub>`Machine Learning` • `Audio Processing`</sub>
-
-<br>
-
-**[🌌 My-Portfolio](https://github.com/devrahulin/My-Portfolio)**  
-> *My personal developer portfolio with premium UI/UX.*  
-> <sub>`Next.js` • `TailwindCSS`</sub>
+> <sub> • </sub>
 
 <br>
 
