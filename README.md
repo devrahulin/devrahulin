@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate developer focusing on the intersection of modern scalable web applications and artificial intelligence. 
+Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate developer focusing on the intersection of modern scalable web applications and artificial intelligence. And app development journey
 
 - 🎓 **Education:** Pursuing BCA with a specialization in **Artificial Intelligence & Machine Learning**.
 - 🚀 **Mission:** Building tools that are not only functionally powerful but aesthetically extraordinary.
